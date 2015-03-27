@@ -1,0 +1,31 @@
+/* Add here all your css styles (customizations) */
+.container1
+{
+    //position: absolute;
+    top: 10%; left: 10%; right: 0; bottom: 0;
+}
+.action
+{
+    width: 400px;
+    height: 30px;
+    margin: 10px 0;
+}
+.cropped>img
+{
+    margin-right: 10px;
+}
+.cropped1>img
+{
+    margin-right: 10px;
+}
+.progressbar {
+    width:300px;
+    height:21px;
+}
+.progressbarlabel {
+    width:300px;
+    height:21px;
+    position:absolute;
+    text-align:center;
+    font-size:small;
+}

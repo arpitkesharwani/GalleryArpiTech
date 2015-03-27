@@ -1,0 +1,97 @@
+.imageBox
+{
+    position: relative;
+    height: 450px;
+    width:450px;
+    border:1px solid #aaa;
+    background: grey;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    cursor:move;
+    overflow: hidden;
+    padding: 15px 20px;
+    margin-bottom: 25px;
+    -webkit-transition:all 0.3s ease-in-out;
+    -moz-transition:all 0.3s ease-in-out;
+    -o-transition:all 0.3s ease-in-out;
+    transition:all 0.3s ease-in-out;
+
+}
+.imageBox .thumbBox
+{
+    position: relative;
+    height: 400px;
+    width:  400px;
+    border:1px solid #aaa;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    cursor:move;
+    overflow: hidden;
+    padding: 15px 20px;
+    margin-bottom: 25px;
+    -webkit-transition:all 0.3s ease-in-out;
+    -moz-transition:all 0.3s ease-in-out;
+    -o-transition:all 0.3s ease-in-out;
+    transition:all 0.3s ease-in-out;
+}
+
+.imageBox .spinner
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    line-height: 400px;
+    background: rgba(0,0,0,0.7);
+}
+.imageBox1
+{
+    position: relative;
+    height: 350px;
+    width:450px;
+    border:1px solid #aaa;
+    background: grey;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    cursor:move;
+
+    overflow: hidden;
+    padding: 15px 20px;
+    margin-bottom: 25px;
+    -webkit-transition:all 0.3s ease-in-out;
+    -moz-transition:all 0.3s ease-in-out;
+    -o-transition:all 0.3s ease-in-out;
+    transition:all 0.3s ease-in-out;
+
+}
+.imageBox1 .thumbBox1
+{
+    position: relative;
+    height: 300px;
+    width:  400px;
+    border:1px solid #aaa;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    cursor:move;
+    overflow: hidden;
+    padding: 15px 20px;
+    margin-bottom: 25px;
+    -webkit-transition:all 0.3s ease-in-out;
+    -moz-transition:all 0.3s ease-in-out;
+    -o-transition:all 0.3s ease-in-out;
+    transition:all 0.3s ease-in-out;
+}
+
+.imageBox1 .spinner1
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    line-height: 400px;
+    background: rgba(0,0,0,0.7);
+}
